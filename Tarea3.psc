@@ -1,4 +1,4 @@
-Algoritmo HolaMundo
+Algoritmo OperacionesBasicas 
 	Escribir "Calculando Suma, resta, multiplicación y división de dos numeros"
 	Escribir " " //Espacio
 	Escribir "Ingrese el primer numero: " //Entrada
